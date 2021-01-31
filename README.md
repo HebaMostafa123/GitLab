@@ -1,2 +1,2 @@
 # GitLab
-![picture](img.PNG)
+![picture](download.PNG)
